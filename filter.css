@@ -1,0 +1,77 @@
+h1{
+  font-family: arial;
+    color: blackgray;
+
+}
+
+h2{
+  font-family: arial;
+    color: blackgray;
+}
+
+canvas{
+  border: 1px solid gray;
+  height: 500px;
+  width: 1000px;
+
+
+}
+
+#i1{
+
+  width:200px;
+  //background-color: tomato;
+}
+
+
+
+
+
+
+
+#i3 {
+  border-radius:10px;
+  margin:8px;
+  width: 90px;
+  font-size: 11px
+
+}
+
+#i3 {
+  border-radius:10px;
+  margin:8px;
+  width: 90px;
+  font-size: 11px
+
+}
+
+
+#i6 {
+  border-radius:10px;
+  margin:8px;
+  width: 90px;
+  font-size: 11px
+
+}
+
+
+#i2 {
+  border-radius:8px;
+  margin:00px;
+  width: 85px;
+  font-size: 11px
+
+}
+
+#d2 {
+  border-radius:10px;
+  margin:00px;
+  width: 90px;
+  font-size: 11px
+
+}
+
+
+body{
+  background-color: PowderBlue ;
+}
